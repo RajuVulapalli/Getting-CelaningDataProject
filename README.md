@@ -1,4 +1,4 @@
-# Getting-CelaningDataProject
+# GettingCelaningDataProject
 Getting and Cleaning Data – Course Project
 
 This repository contains the R code and Documentation files for the Course Project requirements of “Getting and Cleaning Data”
